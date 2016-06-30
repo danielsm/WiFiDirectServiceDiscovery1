@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85e27b6ac9193332d361ae363d72d24287caf9d8">
+        <dex dex="/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c2354a0b93c7d437b85e123c1a496aa76af2fa7/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f5bca8f1bd84bb7a548efda06b40eb7f294d0169">
+        <dex dex="/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45db80aff353ec14a526b04f49bd16cbf5d3e7be/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/res/merged/debug/layout/devices_list.xml",
+        "source": "/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/src/main/res/layout/devices_list.xml"
+    },
+    {
+        "merged": "/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/res/merged/debug/layout/fragment_chat.xml",
+        "source": "/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/src/main/res/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/daniel/StudioProjects/WiFiDirectServiceDiscovery1/app/src/main/res/layout/main.xml"
+    }
+]
